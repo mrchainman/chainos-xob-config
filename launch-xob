@@ -1,0 +1,3 @@
+#!/bin/bash
+pulse-volume-xob.py | xob -s chainos &
+brightness-xob.py | xob -s chainos &
